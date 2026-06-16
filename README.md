@@ -10,10 +10,6 @@
 
 ---
 
-<div align="center">
-
-<!-- Creative bio written as Dart — because that's what Flutter devs speak -->
-
 ```dart
 // morris.dart  —  last compiled: 2025
 
@@ -52,8 +48,6 @@ class MorrisKNjuguna extends FullstackDeveloper {
 }
 ```
 
-</div>
-
 ---
 
 ## ⚡ Tech Stack
@@ -91,8 +85,8 @@ class MorrisKNjuguna extends FullstackDeveloper {
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
       </p>
-      <a href="https://mystuffpos.kinyua-nexus.co.ke/">
-        <img src="https://img.shields.io/badge/🌐 Live Site-mystuffpos.kinyua--nexus.co.ke-02569B?style=flat-square"/>
+      <a href="https://mystuffpos.web.app/">
+        <img src="https://img.shields.io/badge/🌐 Live Site-mystuffpos.web.app-02569B?style=flat-square"/>
       </a>
     </td>
     <td align="center" width="48%">
@@ -143,9 +137,9 @@ class MorrisKNjuguna extends FullstackDeveloper {
 
 <div align="center">
 
-<img src="https://github-readme-stats-nxpxbqrac-momalley254s-projects.vercel.app/api?username=MoMalley254&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MoMalley254&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="175"/>
 &nbsp;
-<img src="https://github-readme-stats-nxpxbqrac-momalley254s-projects.vercel.app/api/top-langs/?username=MoMalley254&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoMalley254&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="175"/>
 
 </div>
 
