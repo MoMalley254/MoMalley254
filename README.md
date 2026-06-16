@@ -145,7 +145,7 @@ class MorrisKNjuguna extends FullstackDeveloper {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=MoMalley254&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" width="65%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MoMalley254&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" width="65%"/>
 
 </div>
 
