@@ -85,6 +85,9 @@ class MorrisKNjuguna extends FullstackDeveloper {
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
       </p>
+      <a href="https://play.google.com/store/apps/details?id=com.kinyuanexus.mystuffpos">
+        <img src="https://img.shields.io/badge/📱 Android-Google Play-FF3E00?style=flat-square"/>
+      </a>
       <a href="https://mystuffpos.web.app/">
         <img src="https://img.shields.io/badge/🌐 Live Site-mystuffpos.web.app-02569B?style=flat-square"/>
       </a>
