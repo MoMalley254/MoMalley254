@@ -119,11 +119,14 @@ class MorrisKNjuguna extends FullstackDeveloper {
     </td>
     <td align="center" width="48%">
       <h3>🔄 Convert-AHH</h3>
-      <p>Conversion & clothing/shoe size finder app with a Web version and an Android build currently in Play Store closed testing.</p>
+      <p>Conversion & clothing/shoe size finder app with a Web version and an Android build currently in Play Store.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
       </p>
+      <a href="https://play.google.com/store/apps/details?id=com.kinyua_nexus.convert_ahh">
+        <img src="https://img.shields.io/badge/📱 Android-Google Play-FF3E00?style=flat-square"/>
+      </a>
       <a href="https://convert-aah.web.app/">
         <img src="https://img.shields.io/badge/🌐 Web App-convert--aah.web.app-FF3E00?style=flat-square"/>
       </a>
