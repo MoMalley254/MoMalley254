@@ -24,7 +24,7 @@ class MorrisKNjuguna extends FullstackDeveloper {
   final List<String> stack = [
     "Flutter (Dart)",   // mobile-first, always
     "Node.js",          // the backbone
-    "JavaScript",       // everywhere it needs to be
+    "TypeScript/JavaScript",       // everywhere it needs to be
     "Svelte",           // clean & reactive frontend
     "REST APIs",        // the glue between it all
   ];
