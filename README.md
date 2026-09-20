@@ -11,7 +11,7 @@
 ---
 
 ```dart
-// morris.dart  —  last compiled: 2025
+// morris.dart  —  last compiled: 2026
 
 class MorrisKNjuguna extends FullstackDeveloper {
 
