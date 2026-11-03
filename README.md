@@ -150,9 +150,12 @@ Matatu and bus journey planner for Nairobi. Plans full door-to-door trips: stage
 
 <div align="center">
 
+<img src="https://streak-stats.demolab.com/?user=MoMalley254&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" /> 
+
+<br />
+
 <img height="180" src="https://github-readme-stats-momalley254s-projects.vercel.app/api?username=MoMalley254&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 <img height="180" src="https://github-readme-stats-momalley254s-projects.vercel.app/api/top-langs?username=MoMalley254&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MoMalley254&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
 
 </div>
 
