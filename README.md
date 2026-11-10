@@ -34,8 +34,8 @@ class MorrisKNjuguna extends FullstackDeveloper {
     "Kenya MUN Portal  →  Member platform ✅",
     "Convert-AHH  →  Web + Android ✅",
     "NewsPP  →  Open-source publishing platform 📰",
-    "Patamat  →  Play Store closed testing 🧪",
-    "Fuata  →  Private money tracker, closed testing 🧪",
+    "Patamat  →  Matatu Route Maps Maker, live on Play Store ✅",
+    "Fuata  →  Private money tracker, live on Play Store ✅",
   ];
 
   @override
