@@ -76,15 +76,16 @@ class MorrisKNjuguna extends FullstackDeveloper {
 
 ## 🚀 Shipped Projects
 
-### 💰 Fuata — Follow your money 🧪 *Closed testing*
+### 💰 Fuata — Follow your money, live on Play Store ✅
 
 Local-first Android money tracker with no account, no server, and no internet permission in the release build. Tracks cash, mobile money, banks and cards; computes what's left against a daily limit and shows an ongoing banner in the notification shade; reads bank and M-PESA messages using templates the person teaches it (with a reviewer inbox for anything unreadable); supports outings, summary notifications, a home-screen widget, SQLCipher encryption with app lock, and encrypted scheduled backups. Currently in Google Play closed testing.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Google Play](https://img.shields.io/badge/Google%20Play-Closed%20Testing-orange?style=flat-square&logo=googleplay&logoColor=white)
+![Google Play](https://img.shields.io/badge/Google%20Play-Live-brightgreen?style=flat-square&logo=googleplay&logoColor=white)
 
-[Source on GitHub](TODO_URL)
+[Source on GitHub](https://momalley254.github.io/fuata/)
+[Play Store](https://play.google.com/store/apps/details?id=com.kinyuanexus.fuata)
 
 ### 📦 MyStuff POS
 
@@ -93,7 +94,7 @@ Play Store–listed retail management app built at Kinyua Nexus. Handles invento
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-[Play Store](TODO_URL) · [Web app](TODO_URL)
+[Play Store](https://play.google.com/store/apps/details?id=com.kinyuanexus.mystuffpos) · [Web app](https://mystuffpos.web.app/)
 
 ### 🛒 Sports Place Kenya
 
@@ -121,7 +122,7 @@ Conversion & clothing/shoe size finder app with a Web version and an Android bui
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-[Play Store](TODO_URL) · [Web app](TODO_URL)
+[Play Store](https://play.google.com/store/apps/details?id=com.kinyua_nexus.convert_ahh) · [Web app](https://convert-aah.web.app/)
 
 ### 📰 NewsPP — Digital Magazine Publishing Platform
 
@@ -132,7 +133,7 @@ Full-stack magazine and newspaper publishing platform: a Turn.js flipbook reader
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-[View on GitHub](TODO_URL)
+[View on GitHub](https://github.com/MoMalley254/web-newspp)
 
 ### 🚌 Patamat — Pata mat yako bila stress 🧪 *Closed testing*
 
@@ -142,7 +143,8 @@ Matatu and bus journey planner for Nairobi. Plans full door-to-door trips: stage
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Google Play](https://img.shields.io/badge/Google%20Play-Closed%20Testing-orange?style=flat-square&logo=googleplay&logoColor=white)
 
-[About Patamat](TODO_URL)
+[Google Play](https://play.google.com/store/apps/details?id=com.kinyuanexus.patamat)
+[About Patamat](https://patamat-prod.web.app/)
 
 ---
 
