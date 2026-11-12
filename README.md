@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:02569B,100:1a237e&height=200&section=header&text=Morris%20K.%20Njuguna&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Developer%20%7C%20Flutter%20%E2%80%A2%20Node.js%20%E2%80%A2%20Web&descAlignY=56&descColor=90CAF9&descSize=17" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&random=false&width=580&lines=Flutter+Developer+%F0%9F%93%B1;Node.js+Backend+Engineer+%E2%9A%99%EF%B8%8F;Building+from+Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA;Mobile+%2B+Web+%3D+True+Fullstack+%E2%9C%A8;MyStuff+POS+%E2%80%94+Live+on+Play+Store+%F0%9F%9A%80;Patamat+%E2%80%94+In+Play+Store+Testing+%F0%9F%9A%8C;Fuata+%E2%80%94+Private+Money+Tracker+%F0%9F%92%B0;Open+to+Opportunities+%F0%9F%91%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&random=false&width=580&lines=Flutter+Developer+%F0%9F%93%B1;Node.js+Backend+Engineer+%E2%9A%99%EF%B8%8F;Building+from+Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA;Mobile+%2B+Web+%3D+True+Fullstack+%E2%9C%A8;MyStuff+POS+%E2%80%94+Live+on+Play+Store+%F0%9F%9A%80;Patamat+%E2%80%94+In+Play+Store+Testing+%F0%9F%9A%8C;Fuata+%E2%80%94+Private+Money+Tracker+%F0%9F%92%B0;Open+Source+on+npm+%E2%80%94+clothes-size-converter+%F0%9F%93%A6;Open+to+Opportunities+%F0%9F%91%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -36,6 +36,7 @@ class MorrisKNjuguna extends FullstackDeveloper {
     "NewsPP  →  Open-source publishing platform 📰",
     "Patamat  →  Matatu Route Maps Maker, live on Play Store ✅",
     "Fuata  →  Private money tracker, live on Play Store ✅",
+    "clothes-size-converter  →  Open-source npm package 📦",
   ];
 
   @override
@@ -71,6 +72,9 @@ class MorrisKNjuguna extends FullstackDeveloper {
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
@@ -124,17 +128,6 @@ Conversion & clothing/shoe size finder app with a Web version and an Android bui
 
 [Play Store](https://play.google.com/store/apps/details?id=com.kinyua_nexus.convert_ahh) · [Web app](https://convert-aah.web.app/)
 
-### 📰 NewsPP — Digital Magazine Publishing Platform
-
-Full-stack magazine and newspaper publishing platform: a Turn.js flipbook reader for the public, an admin dashboard with role-based access (Admin / Editor / Viewer), reading analytics (device, location, per-page dwell time, completion rate), tag browsing, table-of-contents editing and email subscriptions. Comes with a Flutter desktop companion app that converts PDFs into web-ready flipbooks using pdf2htmlEX, ImageMagick and Tesseract OCR.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-[View on GitHub](https://github.com/MoMalley254/web-newspp)
-
 ### 🚌 Patamat — Pata mat yako bila stress 🧪 *Closed testing*
 
 Matatu and bus journey planner for Nairobi. Plans full door-to-door trips: stages, saccos, fare ranges, landmark-based directions, walk-or-boda connections, traffic warnings, and routes that work offline and update over the air. Currently in Google Play closed testing.
@@ -145,6 +138,46 @@ Matatu and bus journey planner for Nairobi. Plans full door-to-door trips: stage
 
 [Google Play](https://play.google.com/store/apps/details?id=com.kinyuanexus.patamat)
 [About Patamat](https://patamat-prod.web.app/)
+
+---
+
+## 🌐 Open Source
+
+### 👕 clothes-size-converter — Clothing & shoe size lookups, on npm
+
+A zero-dependency JavaScript library for converting clothing and shoe sizes between brands and into US sizes. Look up a brand's size chart, find which size fits a set of body measurements, or map a Nike, Adidas, H&M, Zara or Levi's size to its US equivalent. Covers shirts, trousers, dresses and shoes (EU / UK / US / Asia), ships TypeScript types, and cites the source of its size data in the README.
+
+Maintained end to end like a production package: 1,600+ Jest tests with enforced coverage thresholds, CI across Node 18–24, and releases published straight from GitHub Actions with npm trusted publishing and provenance, with no stored tokens.
+
+[![npm](https://img.shields.io/npm/v/clothes-size-converter?style=flat-square&logo=npm&color=CB3837)](https://www.npmjs.com/package/clothes-size-converter)
+[![CI](https://img.shields.io/github/actions/workflow/status/MoMalley254/clothes-size-converter/ci.yml?style=flat-square&logo=githubactions&logoColor=white&label=CI)](https://github.com/MoMalley254/clothes-size-converter/actions/workflows/ci.yml)
+![License](https://img.shields.io/badge/License-ISC-blue?style=flat-square)
+![TypeScript types](https://img.shields.io/badge/Types-included-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Jest](https://img.shields.io/badge/Tested%20with-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+
+```bash
+npm install clothes-size-converter
+```
+
+```js
+const { shoes, shirts } = require("clothes-size-converter");
+
+shoes.convertShoeSize("men", "US", 9, "EU"); // 42.5
+shirts.mapSizeToUS("men", "H&M", "M");       // matching US sizes, best first
+```
+
+[npm](https://www.npmjs.com/package/clothes-size-converter) · [Source on GitHub](https://github.com/MoMalley254/clothes-size-converter)
+
+### 📰 NewsPP — Digital Magazine Publishing Platform
+
+Full-stack magazine and newspaper publishing platform: a Turn.js flipbook reader for the public, an admin dashboard with role-based access (Admin / Editor / Viewer), reading analytics (device, location, per-page dwell time, completion rate), tag browsing, table-of-contents editing and email subscriptions. Comes with a Flutter desktop companion app that converts PDFs into web-ready flipbooks using pdf2htmlEX, ImageMagick and Tesseract OCR.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+[View on GitHub](https://github.com/MoMalley254/web-newspp)
 
 ---
 
@@ -169,7 +202,7 @@ Matatu and bus journey planner for Nairobi. Plans full door-to-door trips: stage
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Morris%20Njuguna-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TODO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Morris%20Njuguna-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morris-njuguna)
 [![Gmail](https://img.shields.io/badge/Gmail-Knmorris007%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Knmorris007@gmail.com)
 [![Company](https://img.shields.io/badge/Company-Kinyua%20Nexus-02569B?style=for-the-badge&logo=About.me&logoColor=white)](TODO_URL)
 
