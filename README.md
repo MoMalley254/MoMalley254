@@ -91,7 +91,7 @@ Local-first Android money tracker with no account, no server, and no internet pe
 [Source on GitHub](https://momalley254.github.io/fuata/)
 [Play Store](https://play.google.com/store/apps/details?id=com.kinyuanexus.fuata)
 
-### 📦 MyStuff POS
+### 📦 MyStuff POS - Live on Play store
 
 Play Store–listed retail management app built at Kinyua Nexus. Handles inventory, sales, and product tracking end-to-end.
 
