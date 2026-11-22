@@ -128,7 +128,7 @@ Conversion & clothing/shoe size finder app with a Web version and an Android bui
 
 [Play Store](https://play.google.com/store/apps/details?id=com.kinyua_nexus.convert_ahh) · [Web app](https://convert-aah.web.app/)
 
-### 🚌 Patamat — Pata mat yako bila stress 🧪 *Closed testing*
+### 🚌 Patamat — Pata mat yako bila stress Live kn play store
 
 Matatu and bus journey planner for Nairobi. Plans full door-to-door trips: stages, saccos, fare ranges, landmark-based directions, walk-or-boda connections, traffic warnings, and routes that work offline and update over the air. Currently in Google Play closed testing.
 
